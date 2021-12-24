@@ -1,0 +1,5 @@
+QQ路径为-->D:\Bin\QQScLauncher.exe
+网易云音乐路径为-->D:\CloudMusic\cloudmusic.exe
+musedash路径为-->D:\steam\steamapps\common\Muse Dash\MuseDash.exe
+百度网盘路径为-->D:\BaiduNetdisk\BaiduNetdisk.exe
+order路径为-->D:\pythonprojects\order.txt
